@@ -5,4 +5,4 @@
 layout: page
 ---
 
-...wkrótce więcej szczegółów
+...wkrótce więcej szczegółów.
