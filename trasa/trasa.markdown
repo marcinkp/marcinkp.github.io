@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Trasa
+title: Trasy
 permalink: /trasa/
 ---
 
-[zielona](/trasa/zielona)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+|              Trasa              | Klasy |
+|:-------------------------------:|:-----:|
+|    [zielona](/trasa/zielona)    |  0-3  |
+|  [niebieska](/trasa/niebieska)  |  4-6  |
+|  [czerwona](/trasa/czerwonaś)   |  8-9  |
+{: .trasy }
+
 

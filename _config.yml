@@ -19,14 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rajd PSS 2022
-email: piotr.marcinkowski.poznan@gmail.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Rajd PSS 2022. Zapraszamy całą społeczność PSS na wspólną zabawą.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
-
+header_pages:
+  - trasa/trasa.markdown
+  - dojazd.markdown
 # Build settings
 theme: minima
 plugins:

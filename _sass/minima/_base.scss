@@ -253,3 +253,27 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+$link-color: #e1dcdc;
+$green-color: #79a279;
+$blue-color: #4b4ff1;
+$red-color: #f37272;
+
+.trasy {
+  width: 70%;
+  text-align: center;
+}
+.trasy a {
+  color: $link-color;
+}
+.trasy a:visited {
+  color: $link-color;
+}
+
+.trasy th {
+  background: #efe5d0;
+  word-wrap: break-word;
+  text-align: center;
+}
+.trasy tr:nth-child(1) { background: $green-color;}
+.trasy tr:nth-child(2) { background: $blue-color;}
+.trasy tr:nth-child(3) { background: $red-color;}
