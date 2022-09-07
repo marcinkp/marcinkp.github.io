@@ -1,10 +1,11 @@
 ---
 layout: trasa
-title: Trasa Zielona
-permalink: /trasa/zielona
-color: green
+title: Trasa Czerwona
+permalink: /trasa/czerwona
+color: red
 map:
 ---
 
 ...wkrótce więcej szczegółów.
+
 
