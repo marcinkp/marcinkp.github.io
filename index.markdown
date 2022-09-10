@@ -8,6 +8,4 @@ layout: page
 Tegoroczny rajd odbędzie się **1 października** na poznańskim Golęcinie z wielkim finałem
 na stadionie Lekkoatletycznym _Golęcin_
 
-
-
 ...wkrótce więcej szczegółów.
