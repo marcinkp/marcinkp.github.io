@@ -253,9 +253,9 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-$link-color: #e1dcdc;
+$link-color: #000000;
 $green-color: #79a279;
-$blue-color: #4b4ff1;
+$yellow-color: #e5c607;
 $red-color: #f37272;
 
 .trasy {
@@ -274,6 +274,6 @@ $red-color: #f37272;
   word-wrap: break-word;
   text-align: center;
 }
-.trasy tr:nth-child(1) { background: $green-color;}
-.trasy tr:nth-child(2) { background: $blue-color;}
-.trasy tr:nth-child(3) { background: $red-color;}
+.trasy tr:nth-child(1) { background: $yellow-color;}
+.trasy tr:nth-child(2) { background: $red-color;}
+.trasy tr:nth-child(3) { background: $green-color;}
