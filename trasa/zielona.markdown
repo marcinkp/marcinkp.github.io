@@ -5,6 +5,7 @@ permalink: /trasa/zielona
 color: green
 map: ../assets/trasa_zielona.jpeg
 ---
+4,6 km – czas do ok. 1,5 h
 
 |   Klasa    | Godzina startu |
 |:----------:|:--------------:|

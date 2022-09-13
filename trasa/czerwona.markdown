@@ -5,6 +5,7 @@ permalink: /trasa/czerwona
 color: red
 map: ../assets/trasa_czerwona.jpeg
 ---
+4,0 km – czas do ok. 1,5 h
 
 | Klasa | Godzina startu |
 |:-----:|:--------------:|

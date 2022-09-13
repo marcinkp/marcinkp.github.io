@@ -6,6 +6,7 @@ color: yellow
 map: ../assets/trasa_zolta.jpeg
 ---
 
+3 km – czas do ok. 1 h
 
 | Klasa | Godzina startu |
 |:-----:|:--------------:|
