@@ -9,15 +9,15 @@ map:
 
 | Klasa | Godzina startu |
 |:-----:|:--------------:|
-|  0a   |     XX:XX      |
-|  0b   |     XX:XX      |
-|  1a   |     XX:XX      |      
-|  1b   |     XX:XX      |      
-|  1c   |     XX:XX      |      
-|  2a   |     XX:XX      |      
-|  2b   |     XX:XX      |      
+|  0a   |     09:05      |
+|  0b   |     09:15      |
+|  1a   |     09:25      |      
+|  1b   |     09:35      |      
+|  1c   |     09:45      |      
+|  2a   |     09:55      |      
+|  2b   |     10:05      |      
 {: .zolta }
-
+![](../assets/trasa_zolta.jpeg)
 
 
 

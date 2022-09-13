@@ -8,14 +8,14 @@ map:
 
 | Klasa | Godzina startu |
 |:-----:|:--------------:|
-|  3a   |     XX:XX      |
-|  3b   |     XX:XX      |
-|  3c   |     XX:XX      |
-|  4a   |     XX:XX      |      
-|  4b   |     XX:XX      |      
-|  4c   |     XX:XX      |      
+|  3a   |     08:50      |
+|  3b   |     09:00      |
+|  3c   |     09:10      |
+|  4a   |     09:20      |      
+|  4b   |     09:30      |      
+|  4c   |     09:00      |      
 {: .czerwona }
 
-
+![](../assets/trasa_czerwona.jpeg)
 
 
