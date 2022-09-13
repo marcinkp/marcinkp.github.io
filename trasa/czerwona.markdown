@@ -3,7 +3,7 @@ layout: trasa
 title: Trasa Czerwona
 permalink: /trasa/czerwona
 color: red
-map:
+map: ../assets/trasa_czerwona.jpeg
 ---
 
 | Klasa | Godzina startu |
@@ -15,7 +15,5 @@ map:
 |  4b   |     09:30      |      
 |  4c   |     09:00      |      
 {: .czerwona }
-
-![](../assets/trasa_czerwona.jpeg)
 
 

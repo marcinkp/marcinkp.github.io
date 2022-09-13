@@ -3,7 +3,7 @@ layout: trasa
 title: Trasa Żółta
 permalink: /trasa/zolta
 color: yellow
-map:
+map: ../assets/trasa_zolta.jpeg
 ---
 
 
@@ -17,7 +17,6 @@ map:
 |  2a   |     09:55      |      
 |  2b   |     10:05      |      
 {: .zolta }
-![](../assets/trasa_zolta.jpeg)
 
 
 

@@ -3,7 +3,7 @@ layout: trasa
 title: Trasa Zielona
 permalink: /trasa/zielona
 color: green
-map:
+map: ../assets/trasa_zielona.jpeg
 ---
 
 |   Klasa    | Godzina startu |
@@ -16,6 +16,5 @@ map:
 |     8c     |     09:40      |      
 | Absolwenci |     09:50      |      
 {: .zielona }
-![](../assets/trasa_zielona.jpeg)
 
 
