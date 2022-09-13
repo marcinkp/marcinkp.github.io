@@ -17,5 +17,5 @@ map:
 | Absolwenci |     XX:XX      |      
 {: .zielona }
 
-...wkrótce więcej szczegółów.
+
 

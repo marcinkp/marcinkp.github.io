@@ -18,6 +18,6 @@ map:
 |  2b   |     XX:XX      |      
 {: .zolta }
 
-...wkrótce więcej szczegółów.
+
 
 

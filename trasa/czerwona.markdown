@@ -16,6 +16,6 @@ map:
 |  4c   |     XX:XX      |      
 {: .czerwona }
 
-...wkrótce więcej szczegółów.
+
 
 

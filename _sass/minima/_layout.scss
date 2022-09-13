@@ -185,6 +185,18 @@
   flex: 1;
 }
 
+.body-home {
+  body {
+    padding: $spacing-unit 0;
+    flex: 1;
+    background-image: url("../../assets/poster.png");
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+}
+
 .page-heading {
   @include relative-font-size(2);
 }

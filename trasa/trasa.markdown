@@ -4,7 +4,6 @@ title: Trasy
 permalink: /trasa/
 ---
 
-Tutaj znajdziesz szczegóły trasy dla swojej klasy wraz z hermonogramem startu.
 
 |            Trasa            |               Klasy                |
 |:---------------------------:|:----------------------------------:|
@@ -13,4 +12,5 @@ Tutaj znajdziesz szczegóły trasy dla swojej klasy wraz z hermonogramem startu.
 |  [zielona](/trasa/zielona)  | [5-8 + absolwenci](/trasa/zielona) |
 {: .trasy }
 
+![](../assets/logo_rajd.png)
 
