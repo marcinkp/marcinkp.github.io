@@ -29,6 +29,7 @@ github_username:
 header_pages:
   - trasa/trasa.markdown
   - dojazd.markdown
+  - wpisowe.markdown
 # Build settings
 theme: minima
 plugins:
