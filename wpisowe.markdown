@@ -13,7 +13,8 @@ W cenie:
  - herbata 
  - pamiątkowy znaczek dla uczniów
 
-Prosimy o wpłacanie pieniędzy do skarbnika klasowego
+Prosimy o wpłacanie pieniędzy do skarbnika klasowego.
+Absolwenci płacą na miejscu przy odbiorze pakietu startowego.
 
 
 <div style="text-align: center"> Dziekujemy :) </div>
