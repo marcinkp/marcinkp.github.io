@@ -14,6 +14,9 @@ W cenie:
  - pamiątkowy znaczek dla uczniów
 
 Prosimy o wpłacanie pieniędzy do skarbnika klasowego.
+
+
+**Uwaga!**
 Absolwenci płacą na miejscu przy odbiorze pakietu startowego.
 
 <div style="text-align: center"> Dziekujemy :) </div>
