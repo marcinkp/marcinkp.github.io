@@ -30,6 +30,7 @@ header_pages:
   - trasa/trasa.markdown
   - dojazd.markdown
   - wpisowe.markdown
+  - absolwenci.markdown
 # Build settings
 theme: minima
 plugins:
