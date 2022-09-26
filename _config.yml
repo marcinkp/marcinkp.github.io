@@ -28,6 +28,7 @@ twitter_username:
 github_username:
 header_pages:
   - trasa/trasa.markdown
+  - medyczny.markdown
   - dojazd.markdown
   - wpisowe.markdown
   - absolwenci.markdown
