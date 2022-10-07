@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+Już wkrótce pojawią sie tu zdjęcia z rajdu
