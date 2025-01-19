@@ -10,7 +10,7 @@ oneflow-skin    : "ppz" # "default", "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stowarzyszenie"
+title                    : "Przyjaciele Puszczy Zielonki"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://przyjacielezielonki.pl" # the base hostname & protocol for your site
