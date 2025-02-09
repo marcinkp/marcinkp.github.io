@@ -1,12 +1,12 @@
 # main links
 main:
+  - title: "Kim jesteśmy"
+    url: /#kim-jestesmy
+    blank: false
   - title: "Przeloty samolotu SP-PAC"
     url: https://pidzama.github.io/stop-sppac/2024/2024-06/
     blank: true
     description: "Dokumentacja przelotów samolotu SP-PAC w 2024 roku"
-  - title: "Kim jesteśmy"
-    url: /#kim-jestesmy
-    blank: false
   - title: "Petycja"
     url: /#petycja
     blank: false
