@@ -7,12 +7,6 @@ main:
     url: https://www.stop-sppac.pl/
     blank: true
     description: "Dokumentacja przelotów samolotu SP-PAC w 2024 roku"
-  - title: "Petycja"
-    url: /#petycja
-    blank: false
-  - title: "Galeria"
-    url: /#galeria
-    blank: false
   - title: "Kontakt"
     url: /#kontakt
     blank: false
