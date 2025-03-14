@@ -3,11 +3,11 @@
    ========================================================================== */
 
 /* Colors */
-$gray                       : #0f3908 !default;
-$dark-gray                  : mix(#000, $gray, 40%) !default;
-$darker-gray                : mix(#000, $gray, 60%) !default;
-$light-gray                 : mix(#fff, $gray, 50%) !default;
-$lighter-gray               : mix(#fff, $gray, 90%) !default;
+$gray                       : #1c4916 !default;
+$dark-gray                  : #193a13;
+$darker-gray                : #153210;
+$light-gray                 : mix(#25551d, $gray, 50%) !default;
+$lighter-gray               : mix(#bed8b8, $gray, 90%) !default;
 
 $body-color                 : #fff !default;
 $background-color           : #e4e4d8 !default;
@@ -17,17 +17,17 @@ $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
 $primary-color              : $gray !default;
-$success-color              : #27ae60 !default;
+$success-color              : #0b7136 !default;
 $warning-color              : #e67e22 !default;
 $danger-color               : #c0392b !default;
 $info-color                 : #03a9f4 !default;
 
 /* links */
 $link-color                 : #393e46 !default;
-$link-color-hover           : mix(#000, $link-color, 25%) !default;
-$link-color-visited         : mix(#fff, $link-color, 25%) !default;
-$masthead-link-color        : $primary-color !default;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$link-color-hover           : $link-color;
+$link-color-visited         : $link-color;
+$masthead-link-color        : $link-color !default;
+$masthead-link-color-hover  : $link-color !default;
 
 /* notices */
 $notice-background-mix: 90% !default;
