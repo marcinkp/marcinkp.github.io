@@ -3,6 +3,9 @@ main:
   - title: "Kim jesteśmy"
     url: /#kim-jestesmy
     blank: false
+  - title: "Co możesz zrobić?"
+    url: /#co-mozesz-zrobic
+    blank: false
   - title: "Przeloty samolotu SP-PAC"
     url: https://www.stop-sppac.pl/
     blank: true
