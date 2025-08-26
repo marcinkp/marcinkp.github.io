@@ -10,6 +10,10 @@ main:
     url: https://www.stop-sppac.pl/
     blank: true
     description: "Dokumentacja przelotów samolotu SP-PAC w 2024 roku"
+  - title: "Oświadczenie"
+    url: /oswiadczenie
+    blank: true
+    description: "Oświadczenie organizacji społecznych"
   - title: "Kontakt"
     url: /#kontakt
     blank: false
